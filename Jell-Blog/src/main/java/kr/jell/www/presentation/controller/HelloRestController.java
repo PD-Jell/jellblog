@@ -1,4 +1,4 @@
-package kr.jell.www;
+package kr.jell.www.presentation.controller;
 
 import java.util.List;
 
